@@ -1,0 +1,22 @@
+
+{
+    "data": [
+        {
+            "title": "Physics",
+            "paragraphs": [
+                {
+                    "context": "Newton's second law states that force equals mass times acceleration.",
+                    "qas": [
+                        {
+                            "question": "What is Newton's second law?",
+                            "id": "q1",
+                            "answers": [
+                                {"text": "force equals mass times acceleration", "answer_start": 28}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
